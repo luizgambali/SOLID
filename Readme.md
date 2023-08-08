@@ -6,7 +6,7 @@ Os princípios do SOLID são um conjunto de diretrizes que auxiliam no desenvolv
 
 S - SRP - Single Responsibility Principle: Uma classe deve ter apenas uma razão para mudar, ou seja, deve ter apenas uma responsabilidade. Isso promove a coesão e evita que as classes se tornem grandes e complexas.
 
-O - OCP - Open-Closed Principle - OCP: Uma entidade de software deve ser aberta para extensão, mas fechada para modificação. Isso significa que você pode estender o comportamento de uma classe sem modificar seu código-fonte.
+O - OCP - Open-Closed Principle: Uma entidade de software deve ser aberta para extensão, mas fechada para modificação. Isso significa que você pode estender o comportamento de uma classe sem modificar seu código-fonte.
 
 L - LSP - Liskov Substitution Principle: As instâncias de uma classe derivada devem poder ser substituídas pelas instâncias da classe base sem afetar a integridade do sistema. Em outras palavras, uma classe derivada deve ser substituível por sua classe base sem que isso cause problemas.
 
